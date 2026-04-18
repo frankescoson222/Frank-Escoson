@@ -1,0 +1,21 @@
+{
+  "name": "Nexus DualSense",
+  "short_name": "Nexus",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0c1e",
+  "theme_color": "#000000",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/controller/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/controller/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
